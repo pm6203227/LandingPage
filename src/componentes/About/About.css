@@ -1,0 +1,28 @@
+.cover-container {
+  width: 100%;
+  height: 92.1vh;
+  object-fit: contain;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.36);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.fondo {
+  width: 100%;
+  height: 92.1vh;
+  object-fit: cover;
+  position: absolute;
+  z-index: -1;
+}
+
+.text2 {
+  margin-top: 50px;
+}
+
+.nm1 {
+  width: 70%;
+  height: 40vh;
+  border-radius: 1000px;
+}
