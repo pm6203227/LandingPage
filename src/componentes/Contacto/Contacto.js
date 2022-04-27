@@ -51,7 +51,7 @@ const Contacto = () => {
               ></textarea>
               <br />
               <input
-                class="btn btn-primary"
+                className="btn btn-primary"
                 type="submit"
                 value="Submit"
               ></input>

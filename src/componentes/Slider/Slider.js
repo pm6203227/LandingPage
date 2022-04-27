@@ -12,7 +12,7 @@ const Slider = () => {
       <h1 className=" title1 text-center">Our Projects</h1>
       <div
         id="carouselExampleCaptions"
-        class="carousel slide"
+        className="carousel slide"
         data-bs-ride="carousel"
       >
         <div className="carousel-indicators">

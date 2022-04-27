@@ -6,7 +6,7 @@ import arbol from "../../media/arbol.png";
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light text-center">
-      <div class="container-fluid">
+      <div className="container-fluid">
         <img src={arbol} alt="three" width="30" height="24"></img>
         <NavLink className="navbar-brand" to={"/"}>
           Forest
